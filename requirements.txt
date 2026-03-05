@@ -1,0 +1,10 @@
+# WhatsApp Reporter - Python Dependencies
+
+# Core dependencies
+# No external API dependencies required
+# Standard library only
+
+# Optional development dependencies (uncomment to use)
+# pytest==7.0.0
+# pylint==2.12.0
+# black==21.12b0
